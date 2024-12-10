@@ -1,2 +1,2 @@
 # javascript-tutorial
-This repo is for learning javascript
+This repo is for learning javascript for beigners.
